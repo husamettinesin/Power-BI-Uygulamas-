@@ -1,5 +1,4 @@
 # Power-BI-Uygulaması-
-Kursta Öğrendiklerimi bu uygulama ile bitirdim.
 Power Query Editörü ile veri düzenleme
 Dax Fonksiyonları ile hesaplama
 Veri Görselleştirme yaparak kursta Öğrendiklerimi aşağıdaki linke bulunan uygulamayı yaptım.
